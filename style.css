@@ -65,7 +65,7 @@ form {
   display: flex;
   flex-flow: row wrap;
   height: 30%;
-  /* margin: 5px; */
+  margin: 10px;
   padding: 30px;
   background-color: #ffffff;
   border: none;
